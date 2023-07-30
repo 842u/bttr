@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.22000.0",
+            "compilerPath": "C:/tools/msys64/mingw64/bin/g++.exe",
+            "cStandard": "c17",
+            "intelliSenseMode": "gcc-x64",
+            "cppStandard": "c++20",
+            "compilerArgs": [
+                "make"
+            ]
+        }
+    ],
+    "version": 4
+}
